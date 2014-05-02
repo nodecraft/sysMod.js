@@ -11,6 +11,7 @@ sysUser is a simple wrapper for unix commands chown & chmod to make changes to s
 
 Coding Examples
 =============
+```javascript
     var sysMod = require('sysmod')();
 
     // set CHMOD
@@ -48,3 +49,4 @@ Coding Examples
             console.log('Permission changed');
         }
     });
+```
