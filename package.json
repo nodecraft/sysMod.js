@@ -2,7 +2,7 @@
 	"name":"sysmod",
 	"description": "sysUser is a simple wrapper for unix commands chown & chmod to make changes to system file permissions.",
 	"author": "NodeCraft Hosting LLC <admin@getnodecraft.net> (http://getnodecraft.net)",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"main": "sysMod.js",
 	"repository": {
 	  "type": "git",
